@@ -1,0 +1,13 @@
+.field{
+    border-radius: 10px;
+}
+
+form{
+    background-color: cornflowerblue; /*Color de fondo*/
+    border-radius: 10px; /*Bord redondo*/
+    color: rgb(104, 49, 175); /*Color de la letra*/
+    font-size: 16px; /*Tamaño de la letra*/
+    margin: 30px; /*Margen del recuadro*/
+    width: 300px; /*Ancho*/
+    height: 200px; /*Altura*/
+}
